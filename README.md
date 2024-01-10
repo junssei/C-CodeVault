@@ -1,2 +1,2 @@
 # C-CodeVault
-All C++ projects: School, Personal
+all c++ projects: school, personal
