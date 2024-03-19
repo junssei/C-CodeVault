@@ -54,6 +54,6 @@ int main(){
         totalWaitingTime += waitingTime[i];
     }
     
-    double averageWaitingTime = static_cast<double>(totalWaitingTime) / num;
+    double averageWaitingTime = totalWaitingTime / num;
     cout << "\nAverage waiting time is " << averageWaitingTime;
 }
